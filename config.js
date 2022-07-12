@@ -115,14 +115,14 @@ global.wm3 = '⳹ ❋ཻུ۪۪⸙𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐⳹ ❋۪
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ ROZI ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Henera ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6c3252c17d9689a25d124.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/6c3252c17d9689a25d124.jpg'
-global.giflogo = 'https://telegra.ph/file/6c3252c17d9689a25d124.jpg'
-global.thumbs = ['https://telegra.ph/file/6c3252c17d9689a25d124.jpg', 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg', 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg']
+global.thumb = 'https://telegra.ph/file/72b3ba39c45498f0a4946.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/72b3ba39c45498f0a4946.jpg'
+global.giflogo = 'https://telegra.ph/file/72b3ba39c45498f0a4946.jpg'
+global.thumbs = ['https://telegra.ph/file/72b3ba39c45498f0a4946.jpg', 'https://telegra.ph/file/72b3ba39c45498f0a4946.jpg', 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ //Ini cuma simpenan owner kanna kok :v
