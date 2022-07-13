@@ -48,23 +48,23 @@ global.sdc = ''
 global.snh = ''
 
 /*============== PAYMENT ==============*/
-global.pdana = '083181085070'
-global.povo = '083181085070'
-global.pgopay = '083181085070'
+global.pdana = ''
+global.povo = ''
+global.pgopay = ''
 
 /*============== NOMOR ==============*/
-global.nomorbot = '84382663654'
-global.nomorown = '24105166540'
-global.namebot = '⳹ 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐⳹ ❋ཻུ۪۪'
-global.nameown = 'ᴹᴿ᭄ 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐꧂'
+global.nomorbot = '24106395116'
+global.nomorown = '24106395116'
+global.namebot = '⳹ Hegia Md࿐⳹ ❋ཻུ۪۪'
+global.nameown = 'ᴹᴿ᭄ Hegia Md࿐꧂'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['24105166540'],
-  ['24105166540'],
-  ['24105166540'],
-  ['24105166540', 'Hendra', true]
+  ['6283818409283'],
+  ['6283818409283'],
+  ['6283818409283'],
+  ['6283818409283', 'Hegia Md', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '⳹ ❋ཻུ۪۪⸙𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐ ❋ཻུ۪۪' //Main Watermark
+global.wm = '⳹ ❋ཻུ۪۪⸙Hegia Md࿐ ❋ཻུ۪۪' //Main Watermark
 global.wm2 = '⳹ ❋ཻུ۪۪⸙⳹ ❋ཻུ۪۪'
-global.wm3 = '⳹ ❋ཻུ۪۪⸙𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐⳹ ❋ཻུ۪۪'
+global.wm3 = '⳹ ❋ཻུ۪۪⸙Hegia Md࿐⳹ ❋ཻུ۪۪'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ Henera ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Hegia Md ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
